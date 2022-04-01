@@ -26,4 +26,4 @@ Which bring us to...
 
 Why browse the sources and reverse-engineer code when you can read a paragraph that's written for humans? It's not efficient to read 600 lines of code and run them in your head when you could simply google it.
 
-**Remember, code is for computers and documentation is for humans**. If you are reading this, that means you're probably a human. Optimize for _your_ time, too.
+**Remember, code is for computers and documentation is for humans**. If you are reading this, you're probably human. Optimize _your_ time.

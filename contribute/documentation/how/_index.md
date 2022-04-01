@@ -7,7 +7,9 @@ weight: 2
 
 This documentation is collaborative, hosted on GitHub and served through GitHub Pages. Contributions are welcome!
 
-**TL;DR** – Contributing is super easy! [Edit any page][1] by clicking on the "Improve this page" link at the top right corner of your screen.
+{{% notice note %}}
+Contributing is super easy! Click on the "Improve this page" link at the top right corner of your screen and [edit the page]({{< ref "edit-on-github" >}})
+{{% /notice %}}
 
 ## What to contribute
 
